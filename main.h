@@ -10,7 +10,7 @@
 #define NUMBER_OF_SUGGESTIONS 10     /** minimum number of words suggested      */
 #define MAX_DISTANCE 10              /** minimum distance between words         */
 #define WORD_LENGTH 100              /** Maximum length of word                 */
-#define MEANING_LENGTH 1500          /** maximum length of any word meaning     */
+#define MEANING_LENGTH 1600          /** maximum length of any word meaning     */
 
 
 

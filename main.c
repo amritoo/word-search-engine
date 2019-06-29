@@ -1,4 +1,7 @@
+#include "main.h"
 #include "io.c"
+#include "levenshtein.c"
+#include "suggestion.c"
 
 
 /** Main function */

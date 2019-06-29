@@ -1,5 +1,3 @@
-#include "main.h"
-
 
 
 /** Function to find the minimum number out of three numbers */

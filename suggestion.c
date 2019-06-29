@@ -1,4 +1,3 @@
-#include "levenshtein.c"
 
 
 /** Function to show word suggestions

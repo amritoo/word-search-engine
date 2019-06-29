@@ -1,5 +1,3 @@
-#include "suggestion.c"
-
 
 
 /** Function to load all words and their meanings in the structure dictionary

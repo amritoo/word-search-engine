@@ -1,6 +1,8 @@
 # Word Search Engine
 
-This is a C language project. It searches for the given word and if found shows it (with meaning), else it shows some suggestions found using levenshtein-distance(edit-distance) algorithm.
+This is a simple command line project. It searches for the given word and if found shows it (with meaning), else it shows some suggestions found using levenshtein-distance(edit-distance) algorithm.
+
+This project was made for my level 1, semester 2 lab exam.
 
 ## Feature
 
